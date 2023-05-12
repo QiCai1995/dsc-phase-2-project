@@ -51,6 +51,12 @@ For more information, see The Numbers's website [here.](https://www.the-numbers.
 
 ## Three visualisations (the same visualizations presented in the slides and notebook)
 
+![visualization_1](https://github.com/QiCai1995/dsc-phase-2-project-v3/blob/main/Visuals/Genres%20by%20ROI.png?raw=true)
+
+![visualization_2](https://github.com/QiCai1995/dsc-phase-2-project-v3/blob/main/Visuals/Movie%20Runtime%20Range%20by%20ROI%202.png)
+
+![visualization_3](https://github.com/QiCai1995/dsc-phase-2-project-v3/blob/main/Visuals/Top%205%20directors.png)
+
 ## Conclusion
 
 ### Summary of conclusions including three relevant findings
