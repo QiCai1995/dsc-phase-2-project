@@ -59,7 +59,11 @@ For more information, see The Numbers's website [here.](https://www.the-numbers.
 
 ## Conclusion
 
-### Summary of conclusions including three relevant findings
+Finding 1: Genres above the population median for the dataset for ROI include Animation, Adventure, Sci-Fi, Mystery, Comedy, Action, are our recommended choices.
+
+Finding 2: By looking into the median ROI we have found the ideal movie length to be 161-170 minutes.
+
+Finding 3: We analyzed directors and came to the conclusion that M. Night Shyamalan would be an ideal director.
 
 ## References
 
