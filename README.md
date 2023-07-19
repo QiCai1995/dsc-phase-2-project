@@ -1,12 +1,3 @@
-### Link to the Presentation:
-[Google Slides](https://docs.google.com/presentation/d/1MLvGj73hgIZRSUeMiUxudbkVynZ4hwIq6aFEZ_RNPkU/edit?usp=sharing)
-
-### Linked To Shared Google Document
-[Google Document](https://docs.google.com/document/d/1sQq8MkEcGs7C_QXXiYMlZyQeC_AAdybVG2yTf-Qp6IA/edit?usp=sharing)
-
-### Final EDA Notebook
-[Notebook](https://github.com/QiCai1995/dsc-phase-2-project-v3/blob/main/EDA_Final.ipynb)
-
 # Quantitative Analysis of Box Office Performance by Film Genre
 
 ![alt text](https://i.redd.it/9n27tczziac01.png)
@@ -64,6 +55,16 @@ Finding 1: Genres above the population median for the dataset for ROI include An
 Finding 2: By looking into the median ROI we have found the ideal movie length to be 161-170 minutes.
 
 Finding 3: We analyzed directors and came to the conclusion that M. Night Shyamalan would be an ideal director.
+
+### Link to the Presentation:
+[Google Slides](https://docs.google.com/presentation/d/1MLvGj73hgIZRSUeMiUxudbkVynZ4hwIq6aFEZ_RNPkU/edit?usp=sharing)
+
+### Linked To Shared Google Document
+[Google Document](https://docs.google.com/document/d/1sQq8MkEcGs7C_QXXiYMlZyQeC_AAdybVG2yTf-Qp6IA/edit?usp=sharing)
+
+### Final EDA Notebook
+[Notebook](https://github.com/QiCai1995/dsc-phase-2-project-v3/blob/main/EDA_Final.ipynb)
+
 
 ## References
 
